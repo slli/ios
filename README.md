@@ -1,4 +1,6 @@
-# Altitude Labs: iOS
+# iOS
+
+#### Time: 1 hour
 
 Thanks for taking the time to take the iOS interview challenge. Don’t worry the challenge is not super hard - it is designed so we can assess how you would go about programming in your day-to-day job. We are looking for more than just working code: comments, good structure and an understanding of how to test your code.You are free to use Google and the internet and encouraged to make use of your interviewers should you get stuck or have any questions.
 
