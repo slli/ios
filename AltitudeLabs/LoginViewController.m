@@ -15,7 +15,7 @@
 @implementation LoginViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
+    [super viewDidLoad]; 
     
     //setup instance object
     loginManager = [[LoginManager alloc] init];
